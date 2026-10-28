@@ -1,8 +1,4 @@
 
-"""
-Model loading for the Brain Tumor MRI Classifier.
-"""
-
 import os
 import tensorflow as tf
 import streamlit as st
